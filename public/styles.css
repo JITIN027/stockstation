@@ -51,6 +51,31 @@
   color: grey;
   line-height: 1.5;
 }
+/*carousel-aboutus*/
+.carousel-img{
+  height: 500px;
+  width: 80%;
+  margin-top: 0;
+}
+/*whoarewe-aboitus*/
+.WhoAreWe{
+  text-align: center;
+  padding:4%;
+  margin:2%;
+}
+.WhoAreWeTitle{
+  font-weight: bold;
+  margin-bottom: 1%;
+}
+.WhoAreWeText{
+  font-weight: bold;
+  color: grey;
+  line-height: 1.5;
+  font-size: 135%;
+}
+/* why stock station */
+
+
 /*footer*/
 footer{
   background-color: #0275d8;
@@ -58,5 +83,5 @@ footer{
   padding: 2.2%;
   bottom: 0;
 	width: 100%;
-  position: fixed;
+  position: relative;
 }
